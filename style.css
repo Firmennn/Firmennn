@@ -256,9 +256,9 @@ h3 {
         font-size: 150%
     }
 
-    .kejutan.html {
-        width: auto;
+    .kejutan.html .body {
+        width: 40%;
         display: inline-block;
-        height: auto;
+        height: 40%;
     }
 }
