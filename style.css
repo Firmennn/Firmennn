@@ -255,4 +255,10 @@ h3 {
     .kolom .deskripsi {
         font-size: 150%
     }
+
+    .kejutan.html {
+        width: auto;
+        display: inline-block;
+        height: auto;
+    }
 }
